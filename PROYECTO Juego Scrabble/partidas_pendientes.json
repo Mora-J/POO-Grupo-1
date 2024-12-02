@@ -1,0 +1,4101 @@
+{
+  "miguel_pedro": {
+    "turnoActual": 1,
+    "jugadorActual": {
+      "alias": "miguel",
+      "scoreInGame": 0,
+      "tiempoJugado": "0h 0m 18s",
+      "cantidadPalabrasColocadas": 0,
+      "fichas": [
+        {
+          "valor": 1,
+          "letra": "I",
+          "simbolo": "\u001b[1;30;107m[I ]\u001b[0m"
+        },
+        {
+          "valor": 8,
+          "letra": "RR",
+          "simbolo": "\u001b[1;30;107m[RR]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "E",
+          "simbolo": "\u001b[1;30;107m[E ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "N",
+          "simbolo": "\u001b[1;30;107m[N ]\u001b[0m"
+        },
+        {
+          "valor": 3,
+          "letra": "D",
+          "simbolo": "\u001b[1;30;107m[D ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "A",
+          "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "A",
+          "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+        }
+      ],
+      "horasJugadasInGame": 0,
+      "minutosJugadosInGame": 0,
+      "segundosJugadosInGame": 18,
+      "correo electronico": "miguelon@gutierre.pe",
+      "score total": 0,
+      "horasJugadas": 0,
+      "minutosJugados": 3,
+      "segundosJugados": 4,
+      "cantidadDePalabras": 0
+    },
+    "primeraJugada": true,
+    "primeraFichaPuesta": false,
+    "jugadaCompleta": true,
+    "turnoPasado": false,
+    "palabraCancelada": false,
+    "indiceFichasPuestas": [
+      [
+        7,
+        7
+      ],
+      [
+        7,
+        6
+      ]
+    ],
+    "bolsaFichas": {
+      "listaFichas": [
+        {
+          "valor": 1,
+          "letra": "U",
+          "simbolo": "\u001b[1;30;107m[U ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "E",
+          "simbolo": "\u001b[1;30;107m[E ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "T",
+          "simbolo": "\u001b[1;30;107m[T ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "A",
+          "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "O",
+          "simbolo": "\u001b[1;30;107m[O ]\u001b[0m"
+        },
+        {
+          "valor": 5,
+          "letra": "H",
+          "simbolo": "\u001b[1;30;107m[H ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "L",
+          "simbolo": "\u001b[1;30;107m[L ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "R",
+          "simbolo": "\u001b[1;30;107m[R ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "A",
+          "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "E",
+          "simbolo": "\u001b[1;30;107m[E ]\u001b[0m"
+        },
+        {
+          "valor": 5,
+          "letra": "H",
+          "simbolo": "\u001b[1;30;107m[H ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "S",
+          "simbolo": "\u001b[1;30;107m[S ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "O",
+          "simbolo": "\u001b[1;30;107m[O ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "A",
+          "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "E",
+          "simbolo": "\u001b[1;30;107m[E ]\u001b[0m"
+        },
+        {
+          "valor": 5,
+          "letra": "Y",
+          "simbolo": "\u001b[1;30;107m[Y ]\u001b[0m"
+        },
+        {
+          "valor": 10,
+          "letra": "Ñ",
+          "simbolo": "\u001b[1;30;107m[Ñ ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "I",
+          "simbolo": "\u001b[1;30;107m[I ]\u001b[0m"
+        },
+        {
+          "valor": 0,
+          "letra": "#",
+          "simbolo": "\u001b[1;30;107m[# ]\u001b[0m"
+        },
+        {
+          "valor": 4,
+          "letra": "P",
+          "simbolo": "\u001b[1;30;107m[P ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "L",
+          "simbolo": "\u001b[1;30;107m[L ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "I",
+          "simbolo": "\u001b[1;30;107m[I ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "E",
+          "simbolo": "\u001b[1;30;107m[E ]\u001b[0m"
+        },
+        {
+          "valor": 0,
+          "letra": "#",
+          "simbolo": "\u001b[1;30;107m[# ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "S",
+          "simbolo": "\u001b[1;30;107m[S ]\u001b[0m"
+        },
+        {
+          "valor": 3,
+          "letra": "C",
+          "simbolo": "\u001b[1;30;107m[C ]\u001b[0m"
+        },
+        {
+          "valor": 3,
+          "letra": "G",
+          "simbolo": "\u001b[1;30;107m[G ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "E",
+          "simbolo": "\u001b[1;30;107m[E ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "E",
+          "simbolo": "\u001b[1;30;107m[E ]\u001b[0m"
+        },
+        {
+          "valor": 10,
+          "letra": "Z",
+          "simbolo": "\u001b[1;30;107m[Z ]\u001b[0m"
+        },
+        {
+          "valor": 4,
+          "letra": "V",
+          "simbolo": "\u001b[1;30;107m[V ]\u001b[0m"
+        },
+        {
+          "valor": 3,
+          "letra": "C",
+          "simbolo": "\u001b[1;30;107m[C ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "T",
+          "simbolo": "\u001b[1;30;107m[T ]\u001b[0m"
+        },
+        {
+          "valor": 8,
+          "letra": "Q",
+          "simbolo": "\u001b[1;30;107m[Q ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "U",
+          "simbolo": "\u001b[1;30;107m[U ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "E",
+          "simbolo": "\u001b[1;30;107m[E ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "N",
+          "simbolo": "\u001b[1;30;107m[N ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "S",
+          "simbolo": "\u001b[1;30;107m[S ]\u001b[0m"
+        },
+        {
+          "valor": 10,
+          "letra": "J",
+          "simbolo": "\u001b[1;30;107m[J ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "A",
+          "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "U",
+          "simbolo": "\u001b[1;30;107m[U ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "S",
+          "simbolo": "\u001b[1;30;107m[S ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "T",
+          "simbolo": "\u001b[1;30;107m[T ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "A",
+          "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+        },
+        {
+          "valor": 3,
+          "letra": "C",
+          "simbolo": "\u001b[1;30;107m[C ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "S",
+          "simbolo": "\u001b[1;30;107m[S ]\u001b[0m"
+        },
+        {
+          "valor": 3,
+          "letra": "D",
+          "simbolo": "\u001b[1;30;107m[D ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "O",
+          "simbolo": "\u001b[1;30;107m[O ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "I",
+          "simbolo": "\u001b[1;30;107m[I ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "A",
+          "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "I",
+          "simbolo": "\u001b[1;30;107m[I ]\u001b[0m"
+        },
+        {
+          "valor": 3,
+          "letra": "M",
+          "simbolo": "\u001b[1;30;107m[M ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "A",
+          "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "O",
+          "simbolo": "\u001b[1;30;107m[O ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "O",
+          "simbolo": "\u001b[1;30;107m[O ]\u001b[0m"
+        },
+        {
+          "valor": 10,
+          "letra": "X",
+          "simbolo": "\u001b[1;30;107m[X ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "L",
+          "simbolo": "\u001b[1;30;107m[L ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "A",
+          "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+        },
+        {
+          "valor": 5,
+          "letra": "F",
+          "simbolo": "\u001b[1;30;107m[F ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "L",
+          "simbolo": "\u001b[1;30;107m[L ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "T",
+          "simbolo": "\u001b[1;30;107m[T ]\u001b[0m"
+        },
+        {
+          "valor": 3,
+          "letra": "G",
+          "simbolo": "\u001b[1;30;107m[G ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "I",
+          "simbolo": "\u001b[1;30;107m[I ]\u001b[0m"
+        },
+        {
+          "valor": 8,
+          "letra": "LL",
+          "simbolo": "\u001b[1;30;107m[LL]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "S",
+          "simbolo": "\u001b[1;30;107m[S ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "N",
+          "simbolo": "\u001b[1;30;107m[N ]\u001b[0m"
+        },
+        {
+          "valor": 3,
+          "letra": "C",
+          "simbolo": "\u001b[1;30;107m[C ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "O",
+          "simbolo": "\u001b[1;30;107m[O ]\u001b[0m"
+        },
+        {
+          "valor": 3,
+          "letra": "D",
+          "simbolo": "\u001b[1;30;107m[D ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "R",
+          "simbolo": "\u001b[1;30;107m[R ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "E",
+          "simbolo": "\u001b[1;30;107m[E ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "O",
+          "simbolo": "\u001b[1;30;107m[O ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "A",
+          "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "R",
+          "simbolo": "\u001b[1;30;107m[R ]\u001b[0m"
+        },
+        {
+          "valor": 8,
+          "letra": "CH",
+          "simbolo": "\u001b[1;30;107m[CH]\u001b[0m"
+        },
+        {
+          "valor": 4,
+          "letra": "P",
+          "simbolo": "\u001b[1;30;107m[P ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "E",
+          "simbolo": "\u001b[1;30;107m[E ]\u001b[0m"
+        },
+        {
+          "valor": 3,
+          "letra": "D",
+          "simbolo": "\u001b[1;30;107m[D ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "R",
+          "simbolo": "\u001b[1;30;107m[R ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "U",
+          "simbolo": "\u001b[1;30;107m[U ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "O",
+          "simbolo": "\u001b[1;30;107m[O ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "O",
+          "simbolo": "\u001b[1;30;107m[O ]\u001b[0m"
+        },
+        {
+          "valor": 4,
+          "letra": "B",
+          "simbolo": "\u001b[1;30;107m[B ]\u001b[0m"
+        },
+        {
+          "valor": 1,
+          "letra": "U",
+          "simbolo": "\u001b[1;30;107m[U ]\u001b[0m"
+        },
+        {
+          "valor": 2,
+          "letra": "N",
+          "simbolo": "\u001b[1;30;107m[N ]\u001b[0m"
+        },
+        {
+          "valor": 4,
+          "letra": "B",
+          "simbolo": "\u001b[1;30;107m[B ]\u001b[0m"
+        }
+      ]
+    },
+    "controlador": {
+      "tablero": {
+        "tablero": [
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 2,
+              "letra": "N",
+              "simbolo": "\u001b[1;30;107m[N ]\u001b[0m"
+            },
+            {
+              "valor": 1,
+              "letra": "I",
+              "simbolo": "\u001b[1;30;107m[I ]\u001b[0m"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ],
+          [
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            },
+            {
+              "valor": 0,
+              "letra": "  ",
+              "simbolo": "[  ]"
+            }
+          ]
+        ],
+        "filaCentral": 7,
+        "columnaCentral": 7
+      }
+    },
+    "tablero": {
+      "tablero": [
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ]
+      ],
+      "filaCentral": 7,
+      "columnaCentral": 7
+    },
+    "tableroAuxiliar": {
+      "tablero": [
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ],
+        [
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          },
+          {
+            "valor": 0,
+            "letra": "  ",
+            "simbolo": "[  ]"
+          }
+        ]
+      ],
+      "filaCentral": 7,
+      "columnaCentral": 7
+    },
+    "jugadores": [
+      {
+        "alias": "pedro",
+        "scoreInGame": 0,
+        "tiempoJugado": "0h 0m 18s",
+        "cantidadPalabrasColocadas": 0,
+        "fichas": [
+          {
+            "valor": 3,
+            "letra": "M",
+            "simbolo": "\u001b[1;30;107m[M ]\u001b[0m"
+          },
+          {
+            "valor": 2,
+            "letra": "R",
+            "simbolo": "\u001b[1;30;107m[R ]\u001b[0m"
+          },
+          {
+            "valor": 1,
+            "letra": "E",
+            "simbolo": "\u001b[1;30;107m[E ]\u001b[0m"
+          },
+          {
+            "valor": 2,
+            "letra": "N",
+            "simbolo": "\u001b[1;30;107m[N ]\u001b[0m"
+          },
+          {
+            "valor": 1,
+            "letra": "E",
+            "simbolo": "\u001b[1;30;107m[E ]\u001b[0m"
+          },
+          {
+            "valor": 1,
+            "letra": "A",
+            "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+          },
+          {
+            "valor": 3,
+            "letra": "D",
+            "simbolo": "\u001b[1;30;107m[D ]\u001b[0m"
+          }
+        ],
+        "horasJugadasInGame": 0,
+        "minutosJugadosInGame": 0,
+        "segundosJugadosInGame": 18,
+        "correo electronico": "pedrogimenez@caraeperro.pe",
+        "score total": 0,
+        "horasJugadas": 0,
+        "minutosJugados": 3,
+        "segundosJugados": 4,
+        "cantidadDePalabras": 0
+      },
+      {
+        "alias": "miguel",
+        "scoreInGame": 0,
+        "tiempoJugado": "0h 0m 18s",
+        "cantidadPalabrasColocadas": 0,
+        "fichas": [
+          {
+            "valor": 1,
+            "letra": "I",
+            "simbolo": "\u001b[1;30;107m[I ]\u001b[0m"
+          },
+          {
+            "valor": 8,
+            "letra": "RR",
+            "simbolo": "\u001b[1;30;107m[RR]\u001b[0m"
+          },
+          {
+            "valor": 1,
+            "letra": "E",
+            "simbolo": "\u001b[1;30;107m[E ]\u001b[0m"
+          },
+          {
+            "valor": 2,
+            "letra": "N",
+            "simbolo": "\u001b[1;30;107m[N ]\u001b[0m"
+          },
+          {
+            "valor": 3,
+            "letra": "D",
+            "simbolo": "\u001b[1;30;107m[D ]\u001b[0m"
+          },
+          {
+            "valor": 1,
+            "letra": "A",
+            "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+          },
+          {
+            "valor": 1,
+            "letra": "A",
+            "simbolo": "\u001b[1;30;107m[A ]\u001b[0m"
+          }
+        ],
+        "horasJugadasInGame": 0,
+        "minutosJugadosInGame": 0,
+        "segundosJugadosInGame": 18,
+        "correo electronico": "miguelon@gutierre.pe",
+        "score total": 0,
+        "horasJugadas": 0,
+        "minutosJugados": 3,
+        "segundosJugados": 4,
+        "cantidadDePalabras": 0
+      }
+    ],
+    "palabraExtractor": {},
+    "partidaTerminada": false,
+    "tiempoInicio": 1733172059,
+    "tiempoAcumulado": 18
+  }
+}
